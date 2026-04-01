@@ -1,0 +1,36 @@
+# Entorno virtual
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos compilados / extensiones
+*.pyd
+*.pyo
+*.so
+
+# Build de PyInstaller
+build/
+dist/
+*.spec
+
+# Logs temporales
+*.log
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+
+# Archivos temporales
+*.tmp
+*.bak
+
+# Output  generado por la app
+*_cleaned.zip
